@@ -41,5 +41,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jeet0007&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeet0007&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
